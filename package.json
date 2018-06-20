@@ -2,14 +2,14 @@
     "private": true,
     "name": "definitely-typed",
     "version": "0.0.2",
-    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "homepage": "https://github.com/mig-visiblee/DefinitelyTyped",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+        "url": "git+https://github.com/mig-visiblee/DefinitelyTyped.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+        "url": "https://github.com/mig-visiblee/DefinitelyTyped/issues"
     },
     "engines": {
         "node": ">=7.8.0"
